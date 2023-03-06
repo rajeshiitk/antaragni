@@ -30,7 +30,7 @@ const Home = () => {
           borderBottom={'2px solid'}
           m="auto"
           color={'purple.300'}>
-          Antragni
+          Antaragni
         </Heading>
 
         <Stack
@@ -66,19 +66,19 @@ const MyCarousel = () => (
 
     <Box w={'full'} h={'100vh'}>
       <Image src={img1} h={'full'} w={'full'} objectFit={"cover"}  />
-      <Heading borderRadius={'3xl'} bgColor={"blackAlpha.400"} color={"white"} {...headingAlign} size={ ['xl', '3xl']}>Feel the silence</Heading>
+      <Heading borderRadius={'3xl'} bgColor={"blackAlpha.400"} color={"white"} {...headingAlign} size={ ['xl', '3xl']}>Look beyond the Horizon, there’s a whole new universe waiting for you.</Heading>
     </Box>
     <Box w={'full'} h={'100vh'}>
       <Image src={img2} h={'full'} w={'full'} objectFit={"cover"} />
-      <Heading borderRadius={'3xl'} bgColor={"blackAlpha.400"} color={"white"} {...headingAlign} size={ ['xl', '3xl']}>Meet your better self</Heading>
+      <Heading borderRadius={'3xl'} bgColor={"blackAlpha.400"} color={"white"} {...headingAlign} size={ ['xl', '3xl']}>Unleash The Fire Within</Heading>
     </Box>
     <Box w={'full'} h={'100vh'}>
       <Image src={img4} h={'full'} w={'full'} objectFit={"cover"} />
-      <Heading borderRadius={'3xl'} bgColor={"blackAlpha.400"} color={"white"} {...headingAlign} size={ ['xl', '3xl']}>You must do the things you think you cannot do</Heading>
+      <Heading borderRadius={'3xl'} bgColor={"blackAlpha.400"} color={"white"} {...headingAlign} size={ ['xl', '3xl']}>Suits of Euphoria</Heading>
     </Box>
     <Box w={'full'} h={'100vh'}>
       <Image src={img7} h={'full'} w={'full'} objectFit={"cover"} />
-      <Heading borderRadius={'3xl'} bgColor={"blackAlpha.400"} color={"white"} {...headingAlign} size={ ['xl', '3xl']}>Belief creates the actual fact</Heading>
+      <Heading borderRadius={'3xl'} bgColor={"blackAlpha.400"} color={"white"} {...headingAlign} size={ ['xl', '3xl']}> Nouvelle Rhapsody</Heading>
     </Box>
 
   </Carousel>
