@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/antaragni/static/css/main.6db1fb3b.css",
-    "main.js": "/antaragni/static/js/main.766e9328.js",
+    "main.js": "/antaragni/static/js/main.fd0451fd.js",
     "static/media/antragni17.mp4": "/antaragni/static/media/antragni17.59ba8e5f23cfc1dccae1.mp4",
     "static/media/antragni19.mp4": "/antaragni/static/media/antragni19.733378b687271f90433a.mp4",
     "static/media/antragni21.mp4": "/antaragni/static/media/antragni21.ec19cc7923eee16a77a5.mp4",
@@ -13,10 +13,10 @@
     "static/media/img4.jpg": "/antaragni/static/media/img4.8f108addc594f3d6e82c.jpg",
     "index.html": "/antaragni/index.html",
     "main.6db1fb3b.css.map": "/antaragni/static/css/main.6db1fb3b.css.map",
-    "main.766e9328.js.map": "/antaragni/static/js/main.766e9328.js.map"
+    "main.fd0451fd.js.map": "/antaragni/static/js/main.fd0451fd.js.map"
   },
   "entrypoints": [
     "static/css/main.6db1fb3b.css",
-    "static/js/main.766e9328.js"
+    "static/js/main.fd0451fd.js"
   ]
 }
