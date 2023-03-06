@@ -21,7 +21,8 @@ const Header = () => {
         <DrawerOverlay />
         <DrawerContent>
           <DrawerCloseButton />
-          <DrawerHeader textTransform={'uppercase'} borderBottom={'2px'}  color={'purple.300'}>Antaragni 2K2X </DrawerHeader>
+          <DrawerHeader textTransform={'uppercase'} fontSize={'120%'} borderBottom={'2px'}  color={'purple.300'}>Antaragni 2K2X       <Button ml={'2'} py={'0'} opacity={'0.4'}  colorScheme={"purple"}>Beta</Button>
+          </DrawerHeader>
           <DrawerBody>
             <VStack alignItems={'flex-start'} >
               <Button onClick={onClose} variant={"ghost"} colorScheme='purple'>
